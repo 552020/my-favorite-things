@@ -34,3 +34,7 @@ a {
   font-size: 1em;
   text-decoration: wavy underline #343f56 0.01em;
 }
+
+footer {
+  margin-left: -10px;
+}
