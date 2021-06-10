@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  background-color: #f5e6ca;
+}
+
+main {
+  margin-left: 20px;
+}
+
+h1 {
+  color: #fb9300;
+  font-size: 4em;
+  font-family: "Staatliches", cursive;
+  letter-spacing: 0.1em;
+}
+
+h2 {
+  color: #f54748;
+  font-size: 2em;
+  padding-left: 1.2em;
+  margin: 0px;
+  margin-top: 3em;
+}
+
+li {
+  color: #343f56;
+  margin-top: 0.2em;
+  font-family: "Bodoni Moda", "Times New Roman", serif;
+  font-size: 1.4em;
+}
+
+a {
+  font-family: "Bodoni Moda", "Times New Roman", serif;
+  font-size: 1em;
+  text-decoration: wavy underline #343f56 0.01em;
+}
