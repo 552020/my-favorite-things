@@ -56,3 +56,9 @@ footer {
 
   margin-left: 1em;
 }
+
+.footer a:hover,
+a:focus {
+  color: red;
+  background-color: #f5e6ca;
+}
