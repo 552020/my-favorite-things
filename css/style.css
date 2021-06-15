@@ -4,10 +4,11 @@ body {
 }
 
 main {
-  margin-left: 20px;
+  margin-left: 1em;
 }
 
 h1 {
+  margin-left: 0.7em;
   color: #fb9300;
   font-size: 4em;
   font-family: "Staatliches", cursive;
@@ -19,7 +20,7 @@ h2 {
   font-size: 2em;
   padding-left: 1.2em;
   margin: 0px;
-  margin-top: 3em;
+  margin-top: 2em;
 }
 
 li {
@@ -35,6 +36,23 @@ a {
   text-decoration: wavy underline #343f56 0.01em;
 }
 
+a:hover,
+a:focus {
+  color: red;
+  background-color: pink;
+}
+a:visited {
+  color: darkmagenta;
+}
+
 footer {
-  margin-left: -10px;
+  margin-top: 3em;
+  padding: 1em;
+  background-color: pink;
+}
+
+.footer {
+  font-size: 1.4em;
+
+  margin-left: 1em;
 }
